@@ -4,7 +4,7 @@ public class TesteCarro {
     private static final String modelo = "Golf";
     private static final String marca = "Volkswagen";
     private static final int ano = 2026;
-    private static final double velocidade = 80.5;
+    private static final double velocidade = 120.5;
 
     public static void main(String[] args) {
         Carro carro = new Carro();
