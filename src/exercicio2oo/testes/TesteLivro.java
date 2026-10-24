@@ -7,8 +7,8 @@ public class TesteLivro {
 
         Livro livro = new Livro();
 
-        livro.titulo = "O Senhor dos Aneis";
-        livro.autor = "J. R. R. Tolkien";
+        livro.titulo = "Harry Potter e a Pedra Filosofal";
+        livro.autor = "J. K. Rowling";
         livro.genero = "Fantasia";
         livro.emprestado = false;
 
