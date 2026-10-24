@@ -1,4 +1,4 @@
-package exercicio1oo;
+package exercicio2oo.classes;
 
 public class Carro {
         public String modelo;

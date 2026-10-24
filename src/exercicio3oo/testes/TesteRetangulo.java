@@ -1,4 +1,6 @@
-package exercicio3oo;
+package exercicio3oo.testes;
+
+import exercicio3oo.classes.Retangulo;
 
 public class TesteRetangulo {
     private static final double altura = 10;

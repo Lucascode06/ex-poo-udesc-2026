@@ -1,4 +1,6 @@
-package exercicio3oo;
+package exercicio3oo.testes;
+
+import exercicio3oo.classes.Livro;
 
 public class TesteLivro {
     private static final String titulo = "Harry Potter e a Pedra Filosofal";

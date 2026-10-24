@@ -1,4 +1,6 @@
-package exercicio3oo;
+package exercicio3oo.testes;
+
+import exercicio3oo.classes.Carro;
 
 public class TesteCarro {
     private static final String modelo = "Golf";

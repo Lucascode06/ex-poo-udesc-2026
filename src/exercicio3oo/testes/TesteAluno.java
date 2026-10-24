@@ -1,4 +1,6 @@
-package exercicio3oo;
+package exercicio3oo.testes;
+
+import exercicio3oo.classes.Aluno;
 
 public class TesteAluno {
     private static final String matricula = "123456";

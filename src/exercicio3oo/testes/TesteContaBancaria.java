@@ -1,4 +1,6 @@
-package exercicio3oo;
+package exercicio3oo.testes;
+
+import exercicio3oo.classes.ContaBancaria;
 
 public class TesteContaBancaria {
     private static final String numeroConta = "12345-6";

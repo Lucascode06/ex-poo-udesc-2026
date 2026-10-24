@@ -1,4 +1,4 @@
-package exercicio3oo;
+package exercicio3oo.classes;
 
 public class Aluno {
     private String matricula;
